@@ -21,3 +21,8 @@ Work is tracked on our [project board](https://github.com/orgs/riseproject-dev/p
 - File an [issue](https://github.com/riseproject-dev/kernel-and-virtualization-wg/issues) to propose work, report a gap, or raise a question
 - Contact us to get involved
 - Have a look at the [project board](https://github.com/orgs/riseproject-dev/projects/14) to see what's in progress
+
+## Resources
+
+* [Google Drive](https://drive.google.com/drive/u/0/folders/1u4Tleg2d0hTJBCz-Kh-7hEtkF2cKzPpn)
+* [Monthly Meetings](docs/monthly-meetings.md) — slides and recordings
